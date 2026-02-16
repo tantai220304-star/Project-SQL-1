@@ -24,19 +24,6 @@ It includes:
 - PROJECT_ORDERS (1) → (many) PROJECT_ORDER_ITEMS via order_id
 - PROJECT_PRODUCTS (1) → (many) PROJECT_ORDER_ITEMS via product_id
 
-## How to Run (Oracle SQL Developer)
-1. Open **SQL Worksheet**
-2. Run scripts in this order:
-   1) `scripts/01_create_tables.sql`
-   2) `scripts/02_insert_data.sql`
-   3) `scripts/03_views.sql`
-   4) `scripts/04_queries.sql`
-3. Verify tables: expand **Tables** in the connection.
-4. Take screenshots of:
-   - Columns tab
-   - Constraints tab
-   - Data tab (showing >= 20 rows where required)
-
 ## Files Included
 ### /docs
 - ERD diagram screenshots (with header: student name, course code, section)
