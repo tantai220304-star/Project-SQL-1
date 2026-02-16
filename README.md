@@ -1,5 +1,4 @@
-# BDD200 – Project 1 (Oracle SQL) | Group 6 – No Frills Retail Database
-
+# BDD200 – Project 1 (Oracle SQL) 
 ## Overview
 This project builds an Oracle SQL database for a simple retail system inspired by No Frills.  
 It includes:
@@ -9,12 +8,6 @@ It includes:
 - Data Insertion Scripts (INSERT INTO)
 - SQL Report (SELECT / JOIN / VIEW queries)
 - Demo video (optional link)
-
-## Team & Responsibilities
-**Group 6 Members:**
-- Thi Yen Nhi Huynh: PROJECT_STORES, PROJECT_CUSTOMERS
-- Tai Nguyen: PROJECT_PRODUCTS, PROJECT_EMPLOYEES
-- Trinh Trong Tin Le: PROJECT_ORDERS, PROJECT_ORDER_ITEMS
 
 ## Database Entities
 - PROJECT_STORES
